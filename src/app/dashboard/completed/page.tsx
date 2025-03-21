@@ -25,7 +25,7 @@ async function CompletedTaskList() {
     return (
       <Card>
         <CardContent className="p-6 text-center text-gray-500">
-          <p>You don't have any completed tasks yet.</p>
+          <p>You don&apos;t have any completed tasks yet.</p>
           <p>Complete a task to see it here!</p>
         </CardContent>
       </Card>

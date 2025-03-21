@@ -26,7 +26,7 @@ async function TaskList() {
     return (
       <Card>
         <CardContent className="p-6 text-center text-gray-500">
-          <p>You don't have any current tasks.</p>
+          <p>You don&apos;t have any current tasks.</p>
           <p>Add a new task to get started!</p>
         </CardContent>
       </Card>

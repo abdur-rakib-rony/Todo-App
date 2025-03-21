@@ -23,7 +23,7 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import { CheckCircle, Trash2, Edit, Loader2 } from "lucide-react";
+import { CheckCircle, Trash2, Loader2 } from "lucide-react";
 
 interface Task {
   id: string;
